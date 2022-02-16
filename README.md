@@ -7,15 +7,6 @@
 ![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FFreeRide_girl)
 
 Nice to meet you here!
- 
-<!-- Actual text -->
-You can find me on [![Twitter][1.2]][1].
-
-<!-- Icons -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-
-<!-- Links to your social media accounts -->
-[1]: https://twitter.com/FreeRide_girl
 <br>
 
 ## &#x1f527; Technologies & Tools
