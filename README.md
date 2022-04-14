@@ -35,9 +35,9 @@ Nice to meet you here!
 <br>
 
 ## &#x2728; Top Repositories
+<a href="https://github.com/freefly-girl/nft-drop-starter-project-main">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=freefly-girl&repo=nft-drop-starter-project-main&theme=buefy&border_radius=10" /> 
+</a>
 <a href="https://github.com/freefly-girl/Assembly">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=freefly-girl&repo=Assembly&theme=buefy&border_radius=10" /> 
-</a>
-<a href="https://github.com/AleKuv55/Ornament">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AleKuv55&repo=Ornament&theme=buefy&show_owner=true&border_radius=10" /> 
 </a>
